@@ -21,6 +21,8 @@ notes:
 the above code is only for day recurring not for period of time 
 and its not sensitive to time but its sensitive to days 
 
+dont forget npm i
+
 any doubts please feel free to reach me vigneshdon11@gmail.com || 9361578500
 
 regs 
